@@ -1,0 +1,62 @@
+comment-id,comment,total-votes,total-agrees,total-disagrees,total-passes,group-a-votes,group-a-agrees,group-a-disagrees,group-a-passes,group-b-votes,group-b-agrees,group-b-disagrees,group-b-passes,group-c-votes,group-c-agrees,group-c-disagrees,group-c-passes
+1,"Even if AI-generated works are legal, there’s a moral argument that profiting from someone else’s work without credit is wrong.",27,19,6,2,19,16,1,2,5,3,2,0,3,0,3,0
+2,"AI-generated content will flood the internet, making it impossible to find real human-created works.",27,13,11,3,19,9,7,3,5,1,4,0,3,3,0,0
+3,"If AI replaces human artists, it will kill the incentive to create original work in the first place.",8,3,5,0,4,2,2,0,3,1,2,0,1,0,1,0
+4,"Small creators will lose their livelihoods if AI can generate art and writing that mimics them perfectly for free.",24,12,8,4,17,10,5,2,5,2,2,1,2,0,1,1
+5,"Big AI companies are profiting off artists’ work without consent or compensation—this is digital colonialism.",22,15,4,3,15,12,0,3,4,0,4,0,3,3,0,0
+6,"Copyright should focus on AI outputs, not training data—if the AI generates something too similar to an existing work, that’s infringement.",11,5,4,2,6,3,1,2,3,2,1,0,2,0,2,0
+7,"Generative AI should be treated like a remix or derivative work, meaning it gets limited copyright but not full ownership.",23,19,2,2,15,12,2,1,5,4,0,1,3,3,0,0
+8,"Rather than banning AI training on copyrighted work, artists should be able to set their own royalty rates.",21,14,4,3,13,11,1,1,5,1,2,2,3,2,1,0
+9,"We need transparency—AI models should disclose their training data, but banning AI from learning entirely isn’t practical.",21,20,1,0,13,13,0,0,5,4,1,0,3,3,0,0
+10,"There should be a public licensing system where AI companies pay into a collective fund that compensates creators.",21,16,0,5,13,10,0,3,5,3,0,2,3,3,0,0
+11,"Copyright law wasn’t designed for AI, and trying to apply it rigidly will only lead to unnecessary legal battles.",21,14,3,4,13,7,2,4,5,5,0,0,3,2,1,0
+12,"Regulating AI training too harshly will slow down innovation and make it impossible for smaller companies to compete.",12,8,2,2,5,2,1,2,5,5,0,0,2,1,1,0
+13,"The idea of owning a style is absurd—artists are always influenced by others.",25,17,4,4,17,9,4,4,5,5,0,0,3,3,0,0
+14,"AI should be able to learn from any publicly available data without restriction, just like a person can.",21,13,3,5,13,5,3,5,5,5,0,0,3,3,0,0
+15,"Training AI models on copyrighted works should be considered fair use, just like humans learning from books and movies.",20,11,3,6,13,4,3,6,5,5,0,0,2,2,0,0
+16,"AI-generated books and articles should disclose which copyrighted materials influenced their output.",23,16,5,2,16,12,2,2,5,2,3,0,2,2,0,0
+17,"AI-generated content shouldn’t be legally protected by copyright—only human-made work should be.",24,9,6,9,17,7,4,6,5,1,2,2,2,1,0,1
+18,"Creators should have an opt-in system for AI training, not an opt-out one.",22,10,9,3,14,8,4,2,5,0,4,1,3,2,1,0
+19,"If an AI-generated image mimics a specific artist’s style, that should count as copyright infringement.",23,7,12,4,15,7,4,4,5,0,5,0,3,0,3,0
+20,"AI companies should pay licensing fees when training on copyrighted content, just like musicians pay to sample a song.",15,8,5,2,9,7,0,2,4,0,4,0,2,1,1,0
+21,"The age of AI demonstrates that copyright was always a retrograde and elitist attempt at intellectual enclosure.",20,4,10,6,12,0,9,3,5,1,1,3,3,3,0,0
+22,"The panic over AI using copyrighted material reflects artists' psychological investment in control rather than a genuine economic concern.",21,9,7,5,13,2,6,5,5,4,1,0,3,3,0,0
+23,"Human art's value in the AI era lies in lived experience, not legal protection.",19,8,4,7,12,2,3,7,4,3,1,0,3,3,0,0
+24,"AI reveals copyright's true purpose: artificial scarcity in a world of natural abundance.",22,8,6,8,14,1,6,7,5,4,0,1,3,3,0,0
+25,"Rules for how creators opt-out of AI training should be the same worldwide to make compliance easier.",7,3,2,2,4,1,1,2,3,2,1,0,0,0,0,0
+26,"Forcing AI companies to reveal exactly what data they trained on would harm innovation and business competition.",7,3,2,2,4,1,1,2,3,2,1,0,0,0,0,0
+27,"If we need permission for all training data, small AI companies won't be able to compete with giants like Google or Microsoft.",6,5,0,1,2,1,0,1,3,3,0,0,1,1,0,0
+28,"A simple system where creators can choose not to have their work used strikes the right balance for everyone.",9,4,3,2,5,2,1,2,3,2,1,0,1,0,1,0
+29,"If news organizations aren't paid when AI systems use our content, quality journalism will become financially unsustainable.",9,1,5,3,5,1,1,3,4,0,4,0,0,0,0,0
+30,"AI companies, not publishers, should be responsible for building the technical systems that respect our content rights.",6,3,1,2,4,2,0,2,2,1,1,0,0,0,0,0
+31,"As a creator, I should have the final say on whether my work is used to train AI that might replace my job.",9,5,3,1,4,3,0,1,4,1,3,0,1,1,0,0
+32,"Knowing my work was used for AI training is pointless if I can't afford to take legal action against misuse.",9,6,2,1,5,4,0,1,3,2,1,0,1,0,1,0
+33,"University research should have more freedom to use data than commercial AI companies.",5,5,0,0,2,2,0,0,3,3,0,0,0,0,0,0
+34,"Content created by AI shouldn't get copyright protection, as this would limit how researchers can use and build on AI outputs.",8,6,0,2,5,3,0,2,2,2,0,0,1,1,0,0
+35,"The profits made from AI systems should be shared with the creators whose work made those systems possible.",4,1,2,1,2,1,0,1,2,0,2,0,0,0,0,0
+36,"Small creators and businesses need a simple way to protect their content that doesn't require technical expertise.",18,14,1,3,11,10,0,1,5,3,1,1,2,1,0,1
+37,"Good AI rules need to balance protecting creators with allowing technological progress that benefits society.",8,6,1,1,4,3,0,1,3,2,1,0,1,1,0,0
+38,"Removing copyright for AI-generated content would help prevent human artists from being undercut by machine-made work.",9,2,2,5,5,1,0,4,3,1,2,0,1,0,0,1
+39,"Unclear rules about AI training data could leave businesses that use AI tools facing unexpected copyright lawsuits.",6,5,0,1,3,2,0,1,3,3,0,0,0,0,0,0
+40,"If AI companies have to pay more for training data, those costs will ultimately be passed on to businesses and consumers.",6,3,0,3,4,1,0,3,2,2,0,0,0,0,0,0
+41,"Courts can't effectively handle AI copyright disputes without clearer laws from Parliament.",7,6,0,1,4,3,0,1,3,3,0,0,0,0,0,0
+42,"The current rules for computer-generated works create more legal confusion than clarity and should be reconsidered.",8,3,0,5,4,1,0,3,3,2,0,1,1,0,0,1
+43,"UK rules on AI and copyright should align with major trading partners to keep our tech industry competitive.",7,3,2,2,5,2,1,2,1,0,1,0,1,1,0,0
+44,"Policies that respect both creator rights and innovation will make the UK a global leader in responsible AI.",11,8,2,1,7,5,1,1,3,3,0,0,1,0,1,0
+45,"copyright is a way of gatekeeping ideas. we should change the paradigm of thinking about content to move towards open source",19,7,8,4,13,2,7,4,4,3,1,0,2,2,0,0
+46,"AI profits needs to be distributed more widely",21,18,3,0,14,14,0,0,5,2,3,0,2,2,0,0
+47,"consider introducing a universal basic income for creators who can then choose how to monetise their works or not beyond that",19,6,10,3,12,3,7,2,5,1,3,1,2,2,0,0
+48,"AI companies should pay a fee for using an artists work. to enforce this all training data usage should be transparent",20,12,6,2,14,9,3,2,4,1,3,0,2,2,0,0
+49,"Copyright compensation is an opportunity for a new market for original human works.",7,2,4,1,2,1,0,1,4,0,4,0,1,1,0,0
+50,"Training models on copyrighted material should be allowed for short term or specific use, but large portions should not be regurgitated",7,3,2,2,5,1,2,2,2,2,0,0,0,0,0,0
+51,"There's a moral argument that profiting from someone else's work without compensation is wrong",10,5,4,1,7,4,2,1,2,1,1,0,1,0,1,0
+52,"AI and human generated content will meld and blend, changing the concept of creation.",6,5,0,1,4,3,0,1,2,2,0,0,0,0,0,0
+53,"Human art's value in the AI era lies in lived experience, AND legal protection.",7,3,2,2,4,2,0,2,3,1,2,0,0,0,0,0
+54,"Underpinning all of these it’s hard to disentangle normative arguments of an ideal world with reality of global competition - the UK’s small",7,5,0,2,4,2,0,2,2,2,0,0,1,1,0,0
+55,"Human art's value in the AI era lies in lived experience, and legal protection.",4,1,1,2,3,1,0,2,1,0,1,0,0,0,0,0
+56,"Hello this is a test test test test",4,1,2,1,3,1,1,1,1,0,1,0,0,0,0,0
+57,"Bernie for president",5,2,0,3,4,2,0,2,1,0,0,1,0,0,0,0
+58,"It's impractical to add copyright laws to AI, OpenAI etc have already broken the watershed and we're past the point of no return",3,2,0,1,2,1,0,1,1,1,0,0,0,0,0,0
+59,"We need a balanced approach that does not guarantee income for creators but insures there is an incentive for human creation.",2,2,0,0,1,1,0,0,1,1,0,0,0,0,0,0
+60,"Soon, pretty much everything is at least part-AI-generated, so it makes little sense to separate human- and AI-generated content",3,1,1,1,2,1,0,1,1,0,1,0,0,0,0,0
+61,"Our solution to this problem may not come from existing legal solutions like licensing, royalties, or basic income. New ideas may be needed",1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
